@@ -2,7 +2,7 @@
 
 Soy Jaime Ramírez Muela, un desarrollador apasionado y entusiasta de la tecnología. Bienvenidos a mi perfil de GitHub.
 
-### Acerca de Mí 	billed_cap
+### Acerca de Mí
 
 Soy desarrollador con una sólida formación en desarrollo de aplicaciones web. Me encanta aprender nuevas tecnologías y mejorar continuamente mis habilidades. Además, disfruto colaborando en proyectos de código abierto y ayudando a la comunidad de desarrolladores.
 
